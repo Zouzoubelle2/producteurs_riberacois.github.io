@@ -11,10 +11,10 @@ PROBLEMATIQUE : Trouver les producteurs dans le pays Ribéracois afin de les loc
   - css
 - Création des graphiques:
   - camembert répartition des producteurs en fonction des code naf
-    - js
-    - highcharts
+    - matplotlib
+    
 - Création de la map
   - folium
 
-
+- Lien pour le site : https://zouzoubelle2.github.io/producteurs_riberacois.github.io/
 
